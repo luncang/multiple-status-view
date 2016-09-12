@@ -1,4 +1,6 @@
+
 MultipleStatusView使用说明
+
 MultipleStatusView 继承 RelativeLayout,所以可以像RelativeLayout那样使用
 
 1,  	       
@@ -73,3 +75,4 @@ MultipleStatusView 继承 RelativeLayout,所以可以像RelativeLayout那样使�
        
          
     
+
