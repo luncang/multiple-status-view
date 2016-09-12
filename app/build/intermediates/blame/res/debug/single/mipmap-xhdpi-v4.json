@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "E:\\Android_Demo\\MultipleStatusView\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_empty.png",
+        "source": "E:\\Android_Demo\\MultipleStatusView\\app\\src\\main\\res\\mipmap-xhdpi\\ic_empty.png"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MultipleStatusView\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_no_network.png",
+        "source": "E:\\Android_Demo\\MultipleStatusView\\app\\src\\main\\res\\mipmap-xhdpi\\ic_no_network.png"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MultipleStatusView\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_error.png",
+        "source": "E:\\Android_Demo\\MultipleStatusView\\app\\src\\main\\res\\mipmap-xhdpi\\ic_error.png"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MultipleStatusView\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_fab_error.png",
+        "source": "E:\\Android_Demo\\MultipleStatusView\\app\\src\\main\\res\\mipmap-xhdpi\\ic_fab_error.png"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MultipleStatusView\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_fab_no_network.png",
+        "source": "E:\\Android_Demo\\MultipleStatusView\\app\\src\\main\\res\\mipmap-xhdpi\\ic_fab_no_network.png"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MultipleStatusView\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_fab_content.png",
+        "source": "E:\\Android_Demo\\MultipleStatusView\\app\\src\\main\\res\\mipmap-xhdpi\\ic_fab_content.png"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MultipleStatusView\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_fab_loading.png",
+        "source": "E:\\Android_Demo\\MultipleStatusView\\app\\src\\main\\res\\mipmap-xhdpi\\ic_fab_loading.png"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MultipleStatusView\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_menu.png",
+        "source": "E:\\Android_Demo\\MultipleStatusView\\app\\src\\main\\res\\mipmap-xhdpi\\ic_menu.png"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MultipleStatusView\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_close.png",
+        "source": "E:\\Android_Demo\\MultipleStatusView\\app\\src\\main\\res\\mipmap-xhdpi\\ic_close.png"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MultipleStatusView\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_fab_empty.png",
+        "source": "E:\\Android_Demo\\MultipleStatusView\\app\\src\\main\\res\\mipmap-xhdpi\\ic_fab_empty.png"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MultipleStatusView\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_launcher.png",
+        "source": "E:\\Android_Demo\\MultipleStatusView\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    }
+]
